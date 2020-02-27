@@ -87,7 +87,7 @@ Vervolgens kan je deze repository ophalen d.m.v. een git clone en de software bo
 ```
 git clone https://github.com/bastoker/intro-unittesten.git
 
-cd unit-test-training
+cd intro-unittesten
 
 ./gradlew clean build
 ```
@@ -97,7 +97,7 @@ Vervolgens kan je deze repository clonen en bouwen door de volgende commando's u
 ```
 git clone https://github.com/bastoker/intro-unittesten.git
 
-cd unit-test-training
+cd intro-unittesten
 
 gradlew clean build
 ```
